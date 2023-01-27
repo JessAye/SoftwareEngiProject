@@ -1,0 +1,15 @@
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\bin\Debug\net6.0\SoftwareEngiProject.exe
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\bin\Debug\net6.0\SoftwareEngiProject.deps.json
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\bin\Debug\net6.0\SoftwareEngiProject.runtimeconfig.json
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\bin\Debug\net6.0\SoftwareEngiProject.dll
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\bin\Debug\net6.0\SoftwareEngiProject.pdb
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.csproj.AssemblyReference.cache
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.AssemblyInfoInputs.cache
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.AssemblyInfo.cs
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.csproj.CoreCompileInputs.cache
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.dll
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\refint\SoftwareEngiProject.dll
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.pdb
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\SoftwareEngiProject.genruntimeconfig.cache
+C:\Users\Jesse\RiderProjects\SoftwareEngiProject\SoftwareEngiProject\obj\Debug\net6.0\ref\SoftwareEngiProject.dll
